@@ -22,9 +22,16 @@ sections:
           description: Review frequently asked questions
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Grant details
+      description: "Get $8,000 cash gift for your first and second baby pet, and
+        $10,000 for subsequent baby pets. "
+      button: Find out more
+      url: /grant-details
+  - infopic:
+      title: Care for your baby
+      description: Experts share how to take care of baby pets
+      button: Find out more
+      url: https://pets.webmd.com/features/pets-and-new-baby#1
+      image: /images/care-petbaby.jpeg
+      alt: Image alt text
 ---
