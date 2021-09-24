@@ -4,11 +4,10 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is a test website meant for demo purposes
 sections:
   - hero:
-      title: OGP Suite Demo
-      subtitle: Hero subtitle
+      title: Baby Pet Bonus application
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
