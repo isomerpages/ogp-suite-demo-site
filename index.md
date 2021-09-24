@@ -8,7 +8,7 @@ notification: This is a test website meant for demo purposes
 sections:
   - hero:
       title: Baby Pet Bonus application
-      background: /images/hero-banner.png
+      background: /images/golden_retiver_cat_cropped.jpeg
       button: Apply now
       url: https://uat.form.gov.sg/#!/614d7762faff360013ef4803
       key_highlights:
