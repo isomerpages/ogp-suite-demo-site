@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Baby Pet Bonus application
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Apply now
+      url: https://uat.form.gov.sg/#!/614d7762faff360013ef4803
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
