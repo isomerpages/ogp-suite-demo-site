@@ -26,7 +26,7 @@ sections:
       description: "Get $8,000 cash gift for your first and second baby pet, and
         $10,000 for subsequent baby pets. "
       button: Find out more
-      url: /grant-details
+      url: /grant-application/
   - infopic:
       title: Care for your baby
       description: Experts share how to take care of baby pets
