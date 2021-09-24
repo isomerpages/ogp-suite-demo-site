@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Check eligibility
           description: Check if you qualify
-          url: https://google.com
+          url: https://staging.checkfirst.gov.sg/c/1708be61-ad15-40df-8196-d4f0326d72f5
         - title: Check status
           description: Check status of your application
           url: https://staging.checkfirst.gov.sg/c/d44899ac-4d90-45bc-a114-e2cc390d177d
