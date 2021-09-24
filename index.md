@@ -12,14 +12,14 @@ sections:
       button: Apply now
       url: https://uat.form.gov.sg/#!/614d7762faff360013ef4803
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Check eligibility
+          description: Check if you qualify
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Check status
+          description: Check status of your application
+          url: https://staging.checkfirst.gov.sg/c/d44899ac-4d90-45bc-a114-e2cc390d177d
+        - title: FAQ
+          description: Review frequently asked questions
           url: /privacy/
   - infobar:
       title: Infobar title
