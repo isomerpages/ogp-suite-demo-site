@@ -1,13 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Grant Application
+  - title: Apply
+    url: https://uat.form.gov.sg/#!/614d7762faff360013ef4803
+  - title: Details
     url: /grant-application/
