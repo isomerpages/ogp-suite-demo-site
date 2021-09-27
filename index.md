@@ -20,7 +20,7 @@ sections:
           url: https://staging.checkfirst.gov.sg/c/d44899ac-4d90-45bc-a114-e2cc390d177d
         - title: FAQ
           description: Review frequently asked questions
-          url: /privacy/
+          url: https://staging.ask.gov.sg/agency/ogp
   - infobar:
       title: Grant details
       description: "Get $8,000 cash gift for your first and second baby pet, and
