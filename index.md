@@ -7,8 +7,8 @@ permalink: /
 notification: This is a test website meant for demo purposes
 sections:
   - hero:
-      title: Baby Pet Bonus application
-      background: /images/golden_retiver_cat_cropped.jpeg
+      title: Baby Bonus application
+      background: /images/baby-pic.jpeg
       button: Apply now
       url: https://uat.form.gov.sg/#!/614d7762faff360013ef4803
       key_highlights:
@@ -23,15 +23,14 @@ sections:
           url: https://staging.ask.gov.sg/agency/tmg
   - infobar:
       title: Grant details
-      description: "Get $8,000 cash gift for your first and second baby pet, and
-        $10,000 for subsequent baby pets. "
+      description: "Get $8,000 cash gift each for your first and second baby, and
+        $10,000 for subsequent babies. "
       button: Find out more
       url: /grant-application/
   - infopic:
       title: Care for your baby
-      description: Experts share how to take care of baby pets
+      description: Experienced parents share tips on parenting
       button: Find out more
-      url: https://pets.webmd.com/features/pets-and-new-baby#1
-      image: /images/care-petbaby.jpeg
-      alt: Image alt text
+      url: https://kidshealth.org/en/parents/nine-steps.html
+      image: /images/parenting-pic.jpeg
 ---
